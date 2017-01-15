@@ -256,7 +256,7 @@ post.user
 
 *Hint: have a little explanation about MVC*
 
-This is what concludes our bloc 4! Let's commit
+This is what concludes our 5th bloc! Let's commit
 ````
 git add -A
 git commit -am "Link users to posts"
